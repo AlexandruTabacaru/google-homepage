@@ -1,0 +1,1 @@
+This project intends to recreate the google homepage using the developer console and understanding how to manipulate html and css in browser rather than in a text editor.
